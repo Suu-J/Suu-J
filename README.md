@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Suu</h1>
 <h3 align="center">Trying to get good at this "programming" thing 🫡</h3>
 
-- 🔭 I’m currently working on - **Asteroids**
+- 🔭 I’m currently working on - **Asteroids [ C++ ]**
 
-- 🌱 I’m currently learning - **Full Stack Development**
+- 🌱 I’m currently learning - **JS and MERN**
 
 - 📫 How to reach me - **mickey.kmsh@gmail.com**
 
