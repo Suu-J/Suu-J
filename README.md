@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Suu</h1>
-<h3 align="center">Trying to get good at this thing 🫡</h3>
+<h3 align="center">Trying to get better at thinking</h3>
 
 - 🔭 I’m currently working on Python- **Automation Scripting**
 
