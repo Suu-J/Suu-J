@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Suu</h1>
 <h3 align="center">Trying to get good at this thing 🫡</h3>
 
-- 🔭 I’m currently working on - **Asteroids [ C++ ]**
+- 🔭 I’m currently working on Python- **Automation Scripting**
 
-- 🌱 I’m currently learning - **JS and MERN**
+- 🌱 I’m currently learning - **Apex And SF Development**
 
 - 📫 How to reach me - **mickey.kmsh@gmail.com**
 
