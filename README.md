@@ -1,13 +1,13 @@
-<h1 align="center">Hello, I'm Suu</h1>
-<h3 align="center">Trying to get better at thinking</h3>
+<h1 align="center">Hello, I'm Sudhanshu</h1>
+<h3 align="center">I'm a Data Engineer</h3>
 
-- 🔭 I’m currently working on Python- **Automation Scripting**
+- 🔭 I’m currently working on Concurrent Data Transfers to CRM End systems - **Python**
 
-- 🌱 I’m currently learning - **Apex And SF Development**
+- 🌱 I’m currently learning - **Data Stream proc**
 
-- 📫 How to reach me - **mickey.kmsh@gmail.com**
+- 📫 How to reach me - **sudhanshu.kmsh@gmail.com**
 
-- ⚡ About me - **I love all things automotive 🏎️**
+- ⚡ About me - **Professional yapper**
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
