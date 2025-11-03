@@ -1,13 +1,7 @@
 <h1 align="center">Hello, I'm Sudhanshu</h1>
 <h3 align="center">I'm a Data Engineer</h3>
 
-- 🔭 I’m currently working on Concurrent Data Transfers to CRM End systems - **Python**
-
-- 🌱 I’m currently learning - **Data Stream proc**
-
-- 📫 How to reach me - **sudhanshu.kmsh@gmail.com**
-
-- ⚡ About me - **Professional yapper**
+- 🚧 I’m currently uploading all my work to github 🚧
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
