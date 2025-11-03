@@ -2,6 +2,7 @@
 <h3 align="center">I'm a Data Engineer</h3>
 
 - 🚧 I’m currently uploading all my work to github 🚧
+- Check back later!
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
