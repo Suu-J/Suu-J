@@ -24,9 +24,9 @@
 - **Automation:** Shell scripting, Python automation, scheduled workflows
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suu-j&show_icons=true&locale=en&layout=donut" alt="suu-j" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suu-j&show_icons=true&locale=en&layout=donut" alt="suu-j" /></p> -->
 
-<h3 align="left">Profiles:</h3>
+<!-- <h3 align="left">Profiles:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/riro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riro" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/riro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riro" height="30" width="40" /></a> -->
 </p>
