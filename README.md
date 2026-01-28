@@ -1,8 +1,7 @@
 <h1 align="center">Hello, I'm Sudhanshu</h1>
 <h3 align="center">I'm a Data Engineer</h3>
 
-- 🚧 I’m currently uploading all my work to github 🚧
-- Check back later!
+- 🚧 Syncing repos 🚧
 
 ## Tech Stack
 
